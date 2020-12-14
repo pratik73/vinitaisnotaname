@@ -2387,6 +2387,7 @@
 
 		.image img {
 			display: block;
+			border: 10px solid lightgray;
 		}
 
 		.image.left, .image.right {
